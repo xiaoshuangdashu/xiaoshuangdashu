@@ -118,7 +118,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/200000000400
 电影22,http://mmitv.top/pltv/huya.php?id=11601981
 欧美电影,http://mmitv.top/pltv/huya.php?id=11352880
 欧美电影,http://mmitv.top/pltv/huya.php?id=21059581
-电影23,http://mmitv.top/pltv/huya.php?id=11601970
+征服刘华强,http://mmitv.top/pltv/huya.php?id=11601970
 史诗级战争电影,http://mmitv.top/pltv/huya.php?id=21059556
 电影24,http://mmitv.top/pltv/huya.php?id=21059579
 电影55,http://mmitv.top/pltv/huya.php?id=23652317
