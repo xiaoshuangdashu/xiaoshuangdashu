@@ -75,7 +75,7 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/200000000400
 黄渤,http://mmitv.top/pltv/huya.php?id=11352876
 张卫健,http://mmitv.top/pltv/huya.php?id=11342423
 冯小刚,http://mmitv.top/pltv/huya.php?id=11352906
-百鸟朝凤,http://mmitv.top/pltv/huya.php?id=15894162
+电影解说,http://mmitv.top/pltv/huya.php?id=15894162
 陈翔六点半,http://mmitv.top/pltv/huya.php?id=11274154
 电锯惊魂系列,http://mmitv.top/pltv/huya.php?id=11352903
 电影,http://mmitv.top/pltv/huya.php?id=618917
