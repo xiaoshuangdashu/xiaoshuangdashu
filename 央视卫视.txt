@@ -184,6 +184,23 @@ IHOT爱院线,http://[2409:8087:7000:20:1000::22]:6060/000000001000/200000000400
 隋唐英雄,http://mmitv.top/pltv/yy.php?id=1352475619
 燕双鹰专场,http://mmitv.top/pltv/yy.php?id=1352227153
 和绅,http://mmitv.top/pltv/yy.php?id=1354143978
+凤凰资讯,https://edge2.laotv.la/live/PhxChinese/index.m3u8
+CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
+河北生活频道,https://jwcdnqx.hebyun.com.cn/live/xtcsshpd/1500k/tzwj_video.m3u8
+河北综合,https://jwplay.hebyun.com.cn/live/xtsrmtzs/1500k/tzwj_video.m3u8
+CCTV1,https://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8?aliyun_uuid=b3b8e538-3470-4fa0-b6ed-2b138e5f5fef&auth_key=2145888000-0-0-fda7ddb73d3cb5ac5bddf4eeba9b665e
+山东卫视,https://lives.jnnews.tv/video/s10001-SDTV/index.m3u8
+cctv13,https://lives.jnnews.tv/video/s10001-cctv/index.m3u8
+济宁综合,https://lives.jnnews.tv/video/s10001-JNTV-1/index.m3u8
+济宁生活,https://lives.jnnews.tv/video/s10001-JNTV2-2023/index.m3u8
+济宁公共,https://lives.jnnews.tv/video/s10001-JNTV3/index.m3u8
+广东影视,https://tcdn.itouchtv.cn/live/gdys.m3u8?t_token=8d46deb5f1925fc1ec85a7b1af1355cd-xj8vzoEMh1FuU837W1ph%2FlFjhc2XfA5tApg8ekgMXP2lJawtHdR68R%2FLUSPLTKAyCv7t%2BvJZ%2BA3APgXqDft7FZQiQRfcl%2FnuMOgBTpOl4io63LraOEin7xP%2FwpjtSVkLstvsvJFI8BJt86yjAkU03M%2BAkHyjHEQToQMPYaRj1UAlKT5%2FnGWekSer%2BQk2keRynh%2Bk1Sry2tRJi%2BL3k24vectBcN3yDL0gnIjfzIMqKrkIIA0dSAsZ3mcyoXDby13cgVArQCY7jTBiIC9aR6uxdsGPT9XCrYczICfr3eLcbkke%2Ffwe8ZISyxjWxVrSvJ5gjaZDxQd2bDC2TVSp319io52%2BGcXRkQucBoXXIPCg7E7wcst6XCTJVRjeo4N52Js8BS8eUqh99EYYgHvnX8Vn1CFFjkp2QcGpOLzAOV2ufBMevYzWFN95hDsotpXMeI9QS2dKweD7lySCjShlGcnNBA%3D%3D
+河北影视,https://tv.pull.hebtv.com/jishi/yingshijupindao.m3u8?t=1708252227&k=b78c250f00b67bd79fe1c9096c1e4b3a
+河北少儿,https://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=1708252380&k=a8dd44a51d73bc74dfa465cdcfda1c9b
+重庆卫视,https://sjlivecdn.cbg.cn/202402181550/e2a9fc703b1c9a96f3d6fab1559692eb/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆新闻,https://sjlivecdn.cbg.cn/202402181552/c840e9c39999a7b60f2a1000fb2bdc37/app_2/_definst_/ls_3.stream/chunklist.m3u8
+河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1708252130&k=98316c0a8cc127f3b7747ceadbb508c2
+广东卫视,https://tcdn.itouchtv.cn/live/gdws.m3u8?t_token=7179f0a609d97efd9ac4109e44fa5416-4IADvgs3x9kvjPOgfz8Az6gVjLP5O6rYI96HbaOjcmoAClc4lqohwdzIu0A7LQSVy77YB65f40FVI0b33v8JPFMezlD8ObTAoe9W2snfY37%2B8eY8suythSyOCHnvQtEvJEQLhC9sQLoOm2XKEPukg15zkAhDK7L0cWzzrbiGddbeJHHOUnFsvjfV2jc6gHxlT9RGVr%2F5Qim%2FK1l6GdaPI654WCGikuEnqVlRMPKyxsHmC2y2dgsKmNiahfLVxx%2BCyO79lajKEagnh3dabY3owdr4xWB%2FSTsZv444aMLJ1sH%2BjLhQ1A6UJ1jRDKw4skUpPpESAfp3%2FW3FevIMceIQrcQXONmvE1UUgx%2Bw112QQZiBP%2F5CyasOSP4nND%2FhxA1ulnIJlsJgui81xIPiz8bh1teQv2EC167onYonPIar4ysO%2FnJE1MxyK7fvAvHnBnI6JZV%2Bb788QNpduI9h%2FjN5Jw%3D%3D
 
 卫视频道,#genre#
 东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
