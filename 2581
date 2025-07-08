@@ -1,9 +1,11 @@
 {
-"spider":"./jar/pg.jar;md5;dffec63fb83a2b31b8606bd4bf6bead9",
-"lives":[{"name":"初秋语","type":0,"url":"./list.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Ray","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+"spider":"https://gh-proxy.com/github.com/xiaoshuangdashu/tvbox/blob/master/jar/XBPQ.jar",
+"lives":[{"name":"快手号济宁裁缝大叔","type":0,"url":"https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/yang/refs/heads/main/20241019.txt","playerType":2,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"电视直播","type":0,"url":"https://d.kstore.dev/download/8240/1107.txt","playerType":1,  "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}", "logo": "https://epg.iill.top/logo/{name}.png"}
+           
 ],
-"wallpaper":"https://jianbian.chuqiuyu.workers.dev",
+"wallpaper": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E7%9A%AE%E8%82%A4.png",
+  "logo": "https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
 "sites":[ {
       "key": "csp_豆瓣",
       "name": "🌈防失联，关注快手号济宁裁缝大叔",
