@@ -1,0 +1,691 @@
+{
+ "spider": "https://d.kstore.dev/download/8240/pizazz.jar",
+  //"spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
+  "wallpaper": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E7%9A%AE%E8%82%A4.png",
+  "logo": "https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
+  "sites": [
+     {
+      "key": "csp_豆瓣",
+      "name": "🌈防失联，关注快手号济宁裁缝大叔",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    
+      {
+      "key": "苹果",
+      "name": "🍎苹果┃不卡",
+      "type": 3,
+      "jar": "https://lz.qaiu.top/d/lz/i0fR72vesc2f",
+      "api": "csp_LiteApple",
+      "timeout": 10,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },{"key":"lf_js_lf_live","name":"🇨🇳2400部恐怖电影📲","type":3,"api":"https://codeberg.org/huyuting/lt/raw/branch/main/lib/apiv26116万hys.js",
+    "style":{ "type":"oval"},
+    "searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://gh.llkk.cc/https://github.com/xiaoshuangdashu/xiaoshuangdashu/blob/main/348%E7%94%B5%E5%BD%B1%E7%BD%91.js"},
+     {
+      "key": " https://gh.qninq.cn/",
+      "name": "🎀555APP🎀",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://gh.qninq.cn/https://github.com/xiaoshuangdashu/xiaoshuangdashu/blob/main/555%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"
+    },
+      {
+      "key": "KUBO影视1",
+      "name": "🎀KUBO影视1🎀",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/%E9%87%91%E7%89%8C%E5%BD%B1%E9%99%A22.js"
+    },
+     {
+      "key": "KUBO影视",
+      "name": "🎀KUBO影视🎀",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/js/KUBO%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": "6080AP/",
+      "name": "🎀麦田APP🎀",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/NY%E5%BD%B1%E9%99%A2.js"
+    },
+    {
+      "key": " 🎀饭团影院",
+      "name": "🎀饭团影院🎀",
+      "type": 3,
+        "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "filterable": 1,
+       
+      "ext": {
+  "作者": "菜妮丝https://cainisi.cf",
+  "站名": "饭团影院",
+  "主页url": "https://www.fantuantva.com",
+  
+  "分类": "电影$dianying#连续剧$lianxuju#综艺$zongyi#动漫$dongman",
+  
+  "分类url": "https://www.fantuantva.com/s/{cateId}{area}{by}/page/{catePg}{year}.html",
+  
+  "副标题": "class=\"tc_wz\">&&</p>",
+  
+  "搜索模式": "1",
+  "搜索url": "/vodsearch/-------------.html?wd={wd}",
+  "搜索数组": "<div class=\"reusltbox\">&&</ul>",
+  "搜索图片": "src=\"&&\"",
+  "搜索标题": "<a href=*>&&</a>",
+  "搜索副标题": "状态：<span>&&</span>",
+  
+  "影片年代": "年份：&&</i>",
+  "影片地区": "地区：&&</i>",
+  "影片类型": "类型：&&</i>",
+  "导演": "裁缝在线：&&</i>",
+  "主演": "主演：&&</p>",
+  "简介": "id=\"content\">&&</div>",
+  
+  "线路数组": "<li class=\"tab-switch swiper-slide&&</li>",
+  "线路标题": "<a href=*>&&</a>",
+  
+  "播放数组": "<ul class=\"con_c2_list&&</ul>",
+  
+  "筛选":{
+"dianying":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":"dianying"},
+  {"n":"动作片","v":"dongzuopian"},
+  {"n":"喜剧片","v":"xijupian"},
+  {"n":"爱情片","v":"aiqingpian"},
+  {"n":"科幻片","v":"kehuanpian"},
+  {"n":"恐怖片","v":"kongbupian"},
+  {"n":"剧情片","v":"juqingpian"},
+  {"n":"战争片","v":"zhanzhengpian"}]},
+  
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"内地","v":"/area/内地"},
+  {"n":"香港","v":"/area/香港"},
+  {"n":"台湾","v":"/area/台湾"},
+  {"n":"美国","v":"/area/美国"},
+  {"n":"法国","v":"/area/法国"},
+  {"n":"英国","v":"/area/英国"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"韩国","v":"/area/韩国"},
+  {"n":"德国","v":"/area/德国"},
+  {"n":"泰国","v":"/area/泰国"},
+  {"n":"印度","v":"/area/印度"},
+  {"n":"其它","v":"/area/其它"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2023","v":"/year/2023"},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}],
+  
+"lianxuju":[
+  {"key":"cateId","name":"类型","value":[
+  {"n":"全部","v":"lianxuju"},
+  {"n":"国产剧","v":"guochanju"},
+  {"n":"港台剧","v":"gangtaiju"},
+  {"n":"日韩剧","v":"rihanju"},
+  {"n":"欧美剧","v":"oumeiju"},
+  {"n":"其他剧","v":"qitaju"}]},
+  
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"内地","v":"/area/内地"},
+  {"n":"香港","v":"/area/香港"},
+  {"n":"台湾","v":"/area/台湾"},
+  {"n":"美国","v":"/area/美国"},
+  {"n":"法国","v":"/area/法国"},
+  {"n":"英国","v":"/area/英国"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"韩国","v":"/area/韩国"},
+  {"n":"德国","v":"/area/德国"},
+  {"n":"泰国","v":"/area/泰国"},
+  {"n":"印度","v":"/area/印度"},
+  {"n":"其它","v":"/area/其它"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2023","v":"/year/2023"},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}],
+  
+"zongyi":[
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"内地","v":"/area/内地"},
+  {"n":"香港","v":"/area/香港"},
+  {"n":"台湾","v":"/area/台湾"},
+  {"n":"美国","v":"/area/美国"},
+  {"n":"法国","v":"/area/法国"},
+  {"n":"英国","v":"/area/英国"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"韩国","v":"/area/韩国"},
+  {"n":"德国","v":"/area/德国"},
+  {"n":"泰国","v":"/area/泰国"},
+  {"n":"印度","v":"/area/印度"},
+  {"n":"其它","v":"/area/其它"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2023","v":"/year/2023"},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}],
+  
+"dongman":[
+  {"key":"area","name":"地区","value":[
+  {"n":"全部","v":""},
+  {"n":"内地","v":"/area/内地"},
+  {"n":"香港","v":"/area/香港"},
+  {"n":"台湾","v":"/area/台湾"},
+  {"n":"美国","v":"/area/美国"},
+  {"n":"法国","v":"/area/法国"},
+  {"n":"英国","v":"/area/英国"},
+  {"n":"日本","v":"/area/日本"},
+  {"n":"韩国","v":"/area/韩国"},
+  {"n":"德国","v":"/area/德国"},
+  {"n":"泰国","v":"/area/泰国"},
+  {"n":"印度","v":"/area/印度"},
+  {"n":"其它","v":"/area/其它"}]},
+  
+  {"key":"year","name":"年份","value":[
+  {"n":"全部","v":""},
+  {"n":"2023","v":"/year/2023"},
+  {"n":"2022","v":"/year/2022"},
+  {"n":"2021","v":"/year/2021"},
+  {"n":"2020","v":"/year/2020"},
+  {"n":"2019","v":"/year/2019"},
+  {"n":"2018","v":"/year/2018"},
+  {"n":"2017","v":"/year/2017"},
+  {"n":"2016","v":"/year/2016"}]},
+  
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":"/by/time"},
+  {"n":"人气","v":"/by/hits"},
+  {"n":"评分","v":"/by/score"}]}]}
+}
+    },
+     {
+      "key": " 6080影院",
+      "name": " 🎀🇳6080影院🎀🇳",
+      "type": 3,
+        "api": "csp_XBPQ",
+    "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "filterable": 1,
+       
+      "ext": {
+    "分类url": "https://www.qwnull.com/vt/{cateId}/area/{area}/class/{class}/lang/{lang}/year/{year}/page/{catePg}.html",
+    "分类": "电影$1#剧集$2#动漫$4#综艺$3"
+}
+    },
+    
+    {
+      "key": " 趣映坊",
+      "name": " 趣映坊",
+      "type": 3,
+        "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "filterable": 1,
+       
+      "ext": {"简介": "济宁裁缝大叔提醒不要相信任何广告防止被骗！！！:+style=\"description;\"&&</div>",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "线路标题": "裁缝大叔专线",
+     
+      
+        "分类url": "https://www.xxjio.com/index.php/vod/type/id/{cateId}.html",
+          "分类": "电影$1#剧集$2#动漫$4#综艺$3#体育$20#战争片$12#喜剧片$7#电视剧$35#动作片$6#爱情片$8#科幻片$9#恐怖片$10#战争片$11#电视剧$2#国产剧$25#香港剧$15#泰国剧$14#韩国剧$16#台湾剧$22#日本剧$23#欧美剧$24#海外剧$13#综艺$3#动漫$4"
+
+        
+      }
+    },
+    
+    
+    {
+      "key": " 看影院",
+      "name": "🇨🇳 看影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "简介": "济宁裁缝大叔提醒不要相信任何广告防止被骗！！！:+style=\"description;\"&&</div>",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "线路标题": "裁缝大叔专线",
+        "分类url": "http://gzjpcj.com/news/{cateId}.html[https://www.gzxiongna.com/0bCvlyE/{cateId}-{catePg}.html]",
+     
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$20#战争片$12#喜剧片$7#电视剧$35#动作片$6#爱情片$8#科幻片$9#恐怖片$10#战争片$11#电视剧$2#国产剧$25#香港剧$15#泰国剧$14#韩国剧$16#台湾剧$22#日本剧$23#欧美剧$24#海外剧$13#综艺$3#动漫$4"
+      }
+    },
+    {
+      "key": "4云",
+      "name": "🇨🇳 ┃秀秀影院┃",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+         "api": "csp_XBPQ",
+      "ext":{
+        "简介": "济宁裁缝大叔提醒不要相信任何广告防止被骗！！！:+style=\"description;\"&&</div>",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "线路标题": "裁缝大叔专线",
+        "分类url": "https://www.nycvod.com/vodshow/{cateId}-----------.html",
+       
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3#体育$20#战争片$12#喜剧片$7#电视剧$35#动作片$6#爱情片$8#科幻片$9#恐怖片$10#战争片$11#电视剧$2#国产剧$25#香港剧$15#泰国剧$14#韩国剧$16#台湾剧$22#日本剧$23#欧美剧$24#海外剧$13#综艺$3#动漫$4"
+
+      }
+    },
+   
+    {
+            "key": "热播影视",
+            "name": "🎀热播｜APP🎀",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "天天影视",
+            "name": "🎀天天｜APP🎀",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://tt.ysdqjs.cn"
+            }
+        },
+       
+        {
+            "key": "1905",
+            "name": "🎀1905｜影视🎀",
+            "type": 3,
+            "api": "csp_Web1905",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        }, 
+       
+      
+       
+        {
+            "key": "瓜萌",
+            "name": "🎀瓜萌｜APP🎀",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.guahd.com",
+                "dataKey": "f2A7D4B9E8C16531",
+                "dataIv": "f2A7D4B9E8C16531",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "晴天",
+            "name": "🎀晴天｜APP🎀",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://qjappcms.sun4k.top",
+                "dataKey": "sBxqXVF5pAHbGzrH",
+                "dataIv": "sBxqXVF5pAHbGzrH",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+       
+        {
+            "key": "橘子",
+            "name": "🎀橘子｜APP🎀",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://api1.bffree.cn",
+                "dataKey": "2015692015692015",
+                "dataIv": "2015692015692015",
+                "deviceId": "",
+                "version": "300"
+            }
+        },
+       
+        {
+            "key": "雨滴",
+            "name": "🎀雨滴｜APP🎀",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
+                "dataKey": "k9o3p2c8b7m3z0o8",
+                "dataIv": "k9o3p2c8b7m3z0o8",
+                "deviceId": "",
+                "version": "100"
+            }
+        },
+       
+       
+      
+        {
+            "key": "外剧",
+            "name": "🎀外剧｜APP🎀",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://guowaiju.com",
+                "dataKey": "7xv16h7qgkrs9b1p",
+                "dataIv": "7xv16h7qgkrs9b1p",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "诺映",
+            "name": "🎀诺映｜APP🎀",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.noad.top",
+                "dataKey": "708FA298F0855840",
+                "dataIv": "708FA298F0855840",
+                "deviceId": "2129ec9e6e5703cb0aeeddd79554e38f8",
+                "version": "103"
+            }
+        },
+        {
+            "key": "樱桃",
+            "name": "🎀樱桃｜APP🎀",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "http://sp.dxgsp.cc",
+                "dataKey": "25f9e794323b4538",
+                "dataIv": "25f9e794323b4538",
+                "jxurl": "https://ap.dxgsp.cc"
+            }
+        },
+        {
+            "key": "趣看",
+            "name": "🎀趣看｜AP🎀P",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "ext": {
+                "url": "https://xjuzi.top",
+                "dataKey": "6a482a70b80eefc9",
+                "dataIv": "c995826a3e86fedd",
+                "jxurl": "https://www.ququkan.cc"
+            }
+        },
+        {
+            "key": "星芽短剧",
+            "name": "🎀星芽｜短剧🎀",
+            "type": 3,
+            "api": "csp_AppXY",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "河马短剧",
+            "name": "🎀河马｜短剧🎀",
+            "type": 3,
+            "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/HMDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+    {
+      "key": "c大米星球天堂",
+      "name": "🎀影视工厂🎀",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": { "导演": "裁缝大叔",
+   
+          
+    "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"sketch content\">&&</span>",
+        "线路标题": "快手号济宁裁缝大叔专线",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+       
+ 
+       "分类url": "https://www.fzfbsn.com/gcyisw/{cateId}--------{catePg}---.html",
+      "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$20#战争片$12#喜剧片$7#电视剧$35#动作片$6#爱情片$8#科幻片$9#恐怖片$10#战争片$11#电视剧$2#国产剧$25#香港剧$15#泰国剧$14#韩国剧$16#台湾剧$22#日本剧$23#欧美剧$24#海外剧$13#综艺$3#动漫$4" 
+   }},{
+      "key": " https://gh.llkk.cc/",
+      "name": "https://gh.llkk.cc/电影555",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/tvbox/refs/heads/master/js/555%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"
+    },
+    {
+      "key": " 59.js",
+      "name": "🇨🇳 老牛影视",
+      "type": 3,
+        "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/xiaoshuangdashu/tvbox/refs/heads/master/js/539%E5%BD%B1%E8%A7%86.js"
+    },
+     {
+      "key": " kstore.dev.js",
+      "name": "🇨🇳 kstore.dev电影555",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://d.kstore.dev/download/8240/%E5%89%A7%E5%9C%88%E5%9C%88.js"
+    },
+    {
+      "key": " 被窝电影.js",
+      "name": "🇨🇳 被窝电影555",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+       "playerType": 2,
+      "ext": "https://hub.gitmirror.com/https://github.com/xiaoshuangdashu/tvbox/blob/master/js/555%E7%94%B5%E5%BD%B1%5BV2%5D.js"
+    },
+   {
+      "key": " 🎀大米星球🎀",
+      "name": "🎀大米星球🎀.js",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+    
+      "ext":"https://d.kstore.dev/download/8240/%E5%A4%A7%E7%B1%B3%E6%98%9F%E7%90%83.js"
+    },
+    
+    {
+      "key": " tx影视.js",
+      "name": "🇨🇳 tx影视.js",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+    
+      "ext":"https://gh.llkk.cc/https://raw.githubusercontent.com/xiaoshuangdashu/yang/main/tx.js"
+    },
+
+     {
+      "key": "csp_XBPQ_天堂",
+      "name": "🎀VIDHUB视频库🎀",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+                "简介": "<span>&&</span>",
+                "嗅探词": ".mp4#.m3u8#.flv",
+                " 数组": "class=\"module-item-titlebox\">&&</div>",
+                "副标题": "module-item-text\">&&</div>",
+                "图片": "data-src=\"&&\"",
+                "线路数组": "data-dropdown-value&&</small>",
+                "线路标题": "<span>&&[替换:</span><small>>>共]+集",
+                "分类url": "https://vidhub1.cc/vodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4" }}, 
+   {
+      "key": "https://jumomo.cc/",
+      "name": "🎀木瓜影院🎀  ",
+      "type": 3,
+      "api": "csp_XBPQ",
+       "searchable":1,
+   "playerType":2,
+   "quickSearch":1,
+   "filterable":0,
+      "ext": {"导演": "裁缝大叔",
+      "简介": "裁缝提醒您,请勿相信影片中的广告，以免上当受骗！+class=\"sketch content\">&&</span>",
+        "线路标题": "快手号济宁裁缝大叔专线",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "分类url": "https://www.muguadyw.com/vodtype/{cateId}-{catePg}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#奇幻片$10#恐怖片$11#战争片$12#动漫片$20#动画片$26#悬疑片$22#冒险片$23#犯罪片$24#惊悚片$45#歌舞片$46#灾难片$47#网络片$48||国产剧$13#港台剧$14#日剧$15#韩剧$33#欧美剧$16#泰剧$34#新马剧
+
+$35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$36#欧美综艺$30#新马泰综艺$37#其他综艺$38||国产动漫$31#日本动漫$32#韩国动漫$39#港台动漫$40#新马泰动漫$41#欧美动漫$42#其他动漫$43"
+      }
+    },
+     {
+      "key": " 厂长电影3.js",
+      "name": "🇨🇳 思古影视.js",
+      "type": 3,
+       "api": "csp_XBPQ",
+      "searchable": 1,
+      
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType":2,
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/tvbox/master/js/18av.js"
+    }, 
+     {
+      "key": " 360影视.js",
+      "name": "🇨🇳 360影视.js",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType":2,
+      "ext": "https://gitee.com/dentist_chen/tvbox/raw/3cc2ba5005320cb811dde786b9614251f7a61602/Interface/js/360%E5%BD%B1%E8%A7%862.js"
+    },
+  ],
+  "parses": [
+    {
+      "name": "官方",
+      "type": 1,
+      "url": ""https://www.yemu.xyz/?url="
+    }
+  ],
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    }
+  ],
+  "headers": [
+    {
+      "host": "gslbserv.itv.cmvideo.cn",
+      "header": {
+        "User-Agent": "okhttp/3.12.13"
+      }
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "hosts": [
+    "cache.ott.ystenlive.itv.cmvideo.cn=base-v4-free-mghy.e.cdn.chinamobile.com"
+  ],
+  "flags": [
+    "qq"
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ]
+}
