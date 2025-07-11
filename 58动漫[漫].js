@@ -1,1 +1,124 @@
-bXViYW4udmZlZC7kuoznuqcudGl0bGUgPSAnaDEmJlRleHQ7LmZlZC1jb2wtbWQzOmVxKDApJiZUZXh0JzsKbXViYW4udmZlZC7kuoznuqcuZGVzYyA9ICcuZmVkLWNvbC1tZDM6ZXEoMykmJlRleHQ7OzsuZmVkLWNvbC1tZDYtLXNwYW46ZXEoMCkmJlRleHQ7LmZlZC1jb2wtbWQ2LS1zcGFuOmVxKDEpJiZUZXh0JzsKbXViYW4udmZlZC7kuoznuqcudGFicyA9ICcubmF2LXRhYnMmJmxpJzsKbXViYW4udmZlZC7kuoznuqcubGlzdHMgPSAnLm15dWktY29udGVudF9fbGlzdDplcSgjaWQpJiZsaSc7CnZhciBydWxlID0gewogICAgdGl0bGU6ICc1OOWKqOa8q1vmvKtdJywKICAgIOaooeadvzogJ3ZmZWQnLAogICAgaG9zdDogJ2h0dHA6Ly93d3cudGluZzM4LmNvbScsCiAgICB1cmw6ICcvc2VhcmNoLnBocD9wYWdlPWZ5cGFnZSZzZWFyY2h0eXBlPTUmdGlkPWZ5Y2xhc3NmeWZpbHRlcicsCiAgICBjbGFzc19wYXJzZTogJy5mZWQtcG9wcy1uYXZiYXImJmxpO2EmJlRleHQ7YSYmaHJlZjsuKi8oLio/KS5odG1sJywKICAgIHBsYXlfcGFyc2U6IHRydWUsCiAgICBsYXp5OiAianM6dmFyIGh0bWw9SlNPTi5wYXJzZShyZXF1ZXN0KGlucHV0KS5tYXRjaCgvciBwbGF5ZXJfLio/PSguKj8pPC8pWzFdKTt2YXIgdXJsPWh0bWwudXJsO2lmKGh0bWwuZW5jcnlwdD09JzEnKXt1cmw9dW5lc2NhcGUodXJsKX1lbHNlIGlmKGh0bWwuZW5jcnlwdD09JzInKXt1cmw9dW5lc2NhcGUoYmFzZTY0RGVjb2RlKHVybCkpfWlmKC9tM3U4fG1wNC8udGVzdCh1cmwpKXtpbnB1dD11cmx9ZWxzZXtpbnB1dH0iLAogICAgbGltaXQ6IDYsCiAgICBmaWx0ZXJhYmxlOiAxLC8v5piv5ZCm5ZCv55So5YiG57G7562b6YCJLAogICAgZmlsdGVyX3VybDogJyZvcmRlcj17e2ZsLmJ5fX0mYXJlYT17e2ZsLmFyZWF9fSZ5ZWFyPXt7ZmwueWVhcn19JywKICAgIGZpbHRlcjogJ0g0c0lBQUFBQUFBQUErMlR6VXJEUUJTRjMyWFdXV1RTWC9zcTBrWFVBWXNtaFZDRlVMS1N1dEpVUkF6RmdodTFFUW9HTE1XbXRFK1RqT1l0ek05azdnVTM3cFBkbk8vTXZUTjNEak1tbFBRT3grU00yYVJIYktaYlJDR21ickJVeFp0VnROMmwrbEkvdjJENU5qUERFeis1OGpPY0N1SW9CZFZVclNGWXZrUmNBNjVoVG9GVHpGWGdLdUwwUVBKMGlYZ1hlQmZ6RHZBTzVtM2diY3hid0Z1WU40RTNNWWQ1S1o2WHdyd1U1aldHRmhNOFh6cjl6Q21lL2NpR1IrZnVmUnhPL3p3Njk5YUp0eElOUm9OMGE5azRDa01lUEFqbmREQ1NCbmY5bjlzN1lSd1BEWU9aSjlteGZZVm9kZWFWeTd4UloxNjV6SnNvYzkxaU9zcDhIc1EzNFQ4emoxOFd5ZXhhVUNGS0wzbWI4YThQNFFraDY2WUIzK3pMdWtMSVczdXZmTDRVbmhDeTUvTjcvTFFyZXhaQzFpMFgzM3UzckN1RTlENERxQk5DM21XeWpyYVA1VjBLZ2JPcHYwUVZ2b1R6Q3hUSFQ1dndDQUFBJywKICAgIGZpbHRlcl9kZWY6IHsKICAgICAgICAxOiB7Y2F0ZUlkOiAnMSd9LAogICAgICAgIDI6IHtjYXRlSWQ6ICcyJ30sCiAgICAgICAgMzoge2NhdGVJZDogJzMnfSwKICAgICAgICA0OiB7Y2F0ZUlkOiAnNCd9CiAgICB9LAogICAgc2VhcmNoVXJsOiAnL3NlYXJjaC5waHA/cGFnZT1meXBhZ2Umc2VhcmNod29yZD0qKiZzZWFyY2h0eXBlPScsCiAgICDmkJzntKI6ICcuZmVkLWxpc3QtaXRlbTthJiZ0aXRsZTthJiZkYXRhLW9yaWdpbmFsOy5mZWQtbGlzdC1yZW1hcmtzJiZUZXh0O2EmJmhyZWYnLAp9
+var rule = {
+  类型: '影视',
+  title: '麦田影院',
+  desc: '源动力出品',
+  host: 'https://www.mtyy4.com',
+  url: '/vodtype/fyclass-fypage.html',
+  searchUrl: '/vodsearch/**----------fypage---.html',
+  searchable: 2,
+  quickSearch: 0,
+  timeout: 5000,
+  play_parse: true,
+  filterable: 0,
+  class_name: '电视剧&电影&综艺&动漫&短剧&纪录片',
+  class_url: '1&2&3&4&5&6',
+  预处理: async () => {
+    return []
+  },
+  推荐: async function (tid, pg, filter, extend) {
+    const { input, pdfa, pdfh, pd } = this;
+    const html = await request(input);
+    const d = [];
+    const data = pdfa(html, '.box-width .public-list-box');
+
+    data.forEach((it) => {
+      d.push({
+        title: pdfh(it, '.public-list-div a&&title'),
+        pic_url: pdfh(it, '.public-list-div img&&data-src'),
+        desc: pdfh(it, '.public-list-div .public-list-prb&&Text'),
+        url: pdfh(it, '.public-list-div a&&href'),
+      })
+    });
+    return setResult(d);
+  },
+  一级: async function (tid, pg, filter, extend) {
+    const { input, pdfa, pdfh, pd } = this;
+    const html = await request(input);
+    const d = [];
+    const data = pdfa(html, '.flex.wrap.border-box.public-r .public-list-box');
+
+    data.forEach((it) => {
+      d.push({
+        title: pdfh(it, '.public-list-button a.time-title&&Text'),
+        pic_url: pdfh(it, '.public-list-bj img&&data-src'),
+        desc: pdfh(it, '.public-list-bj .public-list-prb&&Text'),
+        url: pdfh(it, '.public-list-button a.time-title&&href'),
+      })
+    });
+    return setResult(d);
+  },
+  二级: async function (ids) {
+    const { input, pdfa, pdfh, pd } = this;
+    const html = await request(`${rule.host}${ids[0]}`);
+    const vod = {
+      vod_id: ids[0],
+      vod_name: pdfh(html, '.slide-desc-box .this-desc-title&&Text'),
+      vod_content: pdfh(html, '.slide-desc-box .this-desc .text&&Text'),
+    };
+
+    let playFroms = [];
+    let playUrls = [];
+  
+    const playList = pdfa(html, '.vod-detail .anthology-tab .swiper-wrapper a');
+    playList.forEach((it) => {
+      playFroms.push(pdfh(it, 'a:not([strong])&&Text'));
+    });
+  
+    const indexList = pdfa(html, '.vod-detail .anthology-list .anthology-list-box');
+    indexList.forEach((lines) => {
+      const tmpUrls = [];
+      const line = pdfa(lines, 'ul li');
+      line.forEach((play) => {
+        const index = pdfh(play, 'a&&Text');
+        const url = pdfh(play, 'a&&href');
+        tmpUrls.push(`${index}$${url}`);
+      });
+      playUrls.push(tmpUrls.join('#'));
+    });
+
+    vod.vod_play_from = playFroms.join('$$$');
+    vod.vod_play_url = playUrls.join('$$$');
+
+    return vod;
+  },
+  搜索: async function (wd, quick, pg) {
+    const { input, pdfa, pdfh, pd } = this;
+    const html = await request(input);
+    const d = [];
+    const data = pdfa(html, '.flex.wrap.border-box.public-r .public-list-box');
+
+    data.forEach((it) => {
+      d.push({
+        title: pdfh(it, '.public-list-button a.time-title&&Text'),
+        pic_url: pdfh(it, '.public-list-bj img&&data-src'),
+        desc: pdfh(it, '.public-list-bj .public-list-prb&&Text'),
+        url: pdfh(it, '.public-list-button a.time-title&&href'),
+      })
+    });
+    return setResult(d);
+  },
+  lazy: async function (flag, id, flags) {
+    const { input, pdfa, pdfh, pd } = this;
+    let url = `${rule.host}${id}`;
+    const html = await request(url);
+    const script = pdfa(html, '.player-top script');
+    const scriptContent = script.filter((e) => e.includes("player_aaaa"))[0];
+
+    const scriptRegex = /var player_aaaa=({[^;]+})/;
+    const match = scriptContent.match(scriptRegex);
+    console.warn(match)
+    if (match && match[1]) {
+      try {
+        const matchStr = match[1];
+        const matchJson = JSON.parse(matchStr);
+        url = matchJson.url;
+      } catch (err) { }
+    };
+
+    if (/m3u8|mp4|flv/.test(url)) {
+      return { parse: 0, url }
+    } else {
+      return { parse: 1, url }
+    }
+  }
+}
