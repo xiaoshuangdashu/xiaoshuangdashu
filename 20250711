@@ -1,8 +1,7 @@
 {
  "spider": "https://d.kstore.dev/download/8240/pizazz.jar",
-  //"spider": "https://gitee.com/yanglongxiang/xs/raw/master/spider.jar",
-  "wallpaper": "https://gitee.com/uncle-jining-tailor/iptv/raw/master/%E7%9A%AE%E8%82%A4.png",
-  "logo": "https://gitee.com/yanglongxiang/my/raw/master/%E8%A3%81%E7%BC%9D%E5%A4%A7%E5%8F%94.gif",
+
+
   "sites": [
      {
       "key": "csp_豆瓣",
@@ -649,7 +648,7 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
       "changeable": 1,
       "playerType":2,
       "ext": "https://gitee.com/dentist_chen/tvbox/raw/3cc2ba5005320cb811dde786b9614251f7a61602/Interface/js/360%E5%BD%B1%E8%A7%862.js"
-    },
+    }
   ],
   "parses": [
     {
