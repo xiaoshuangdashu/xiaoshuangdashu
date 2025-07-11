@@ -9,7 +9,7 @@ var rule = {
     homeUrl: '/index.php/label/rb.html',
     // url: '/index.php/api/vod#type=fyfilter&page=fypage',
     // url:'/vodshow/fyfilter.html',
-    detailUrl: '/voddetail/fyid.html',
+    detailUrl: '/vodtype/fyid.html',
     // filterable:1,//是否启用分类筛选,
     // filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by or "time"}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
     // filter:{
