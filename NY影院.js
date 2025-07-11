@@ -2,7 +2,7 @@ var rule = {
   类型: '影视',
   title: '麦田影院',
   desc: '源动力出品',
-  host: 'https://www.mtyy4.com',
+  host: 'https://www.nycvod.com',
   url: '/vodtype/fyclass-fypage.html',
   searchUrl: '/vodsearch/**----------fypage---.html',
   searchable: 2,
