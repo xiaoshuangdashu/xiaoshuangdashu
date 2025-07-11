@@ -637,6 +637,18 @@ $35#其他剧$25||内地综艺$27#港台综艺$28#日本综艺$29#韩国综艺$3
       "playerType":2,
       "ext": "https://gh-proxy.com/raw.githubusercontent.com/xiaoshuangdashu/tvbox/master/js/18av.js"
     }, 
+{
+      "key": " 麦田影院影视.js",
+      "name": "🇨🇳 麦田影院.js",
+      "type": 3,
+       "api": "https://hub.gitmirror.com/https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/lib/drpy2.min.js",
+      "searchable": 1,
+      
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType":2,
+      "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/%E9%BA%A6%E7%94%B0%E5%BD%B1%E9%99%A2%5D.js"
+    }
      {
       "key": " 360影视.js",
       "name": "🇨🇳 360影视.js",
