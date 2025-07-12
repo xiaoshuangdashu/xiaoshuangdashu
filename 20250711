@@ -71,12 +71,7 @@
       "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/NY%E5%BD%B1%E9%99%A2.js"
     },
 
-{"key":"4Kdy","name":"4K🎦DY",
-"type":3,"
-api":"csp_XBPQ",
-"ext":{
-"分类url":"https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc",
-"分类":"电影&剧集&动漫&记录","分类值":"1&2&3&5"}}, 
+
 { "key": "天堂影院", "name": "👼🏻天堂影院", 
 "type":3,
 "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api":"csp_XBPQ", "ext": {"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","请求头":"手机","简介":"济宁裁缝大叔提醒不要相信任何广告防止被骗！！:+简介：&&
