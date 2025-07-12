@@ -70,7 +70,28 @@
        "playerType": 2,
       "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/NY%E5%BD%B1%E9%99%A2.js"
     },
+ {
+      "key": " 4k坊",
+      "name": " 4k坊",
+      "type": 3,
+        "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "filterable": 1,
+       
+      "ext": {"简介": "济宁裁缝大叔提醒不要相信任何广告防止被骗！！！:+style=\"description;\"&&</div>",
+        "副标题": "裁缝在线+module-item-note&&</div>",
+        "线路数组": "module-tab-item tab-item\" data-dropdown-value=&&</div>",
+        "线路标题": "裁缝大叔专线",
+     
+      
+        "分类url": "https://www.4kdy.vip/4K-show/{cateId}-{area}-------{catePg}---{year}.html ",
+          "分类": "电影$1#剧集$2#动漫$4#综艺$3#体育$20#战争片$12#喜剧片$7#电视剧$35#动作片$6#爱情片$8#科幻片$9#恐怖片$10#战争片$11#电视剧$2#国产剧$25#香港剧$15#泰国剧$14#韩国剧$16#台湾剧$22#日本剧$23#欧美剧$24#海外剧$13#综艺$3#动漫$4"
 
+        
+      }
+    },
 
 { "key": "天堂影院", "name": "👼🏻天堂影院", 
 "type":3,
