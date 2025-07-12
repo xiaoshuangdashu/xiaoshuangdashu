@@ -70,19 +70,11 @@
        "playerType": 2,
       "ext": "https://hub.gitmirror.com/https://raw.githubusercontent.com/xiaoshuangdashu/xiaoshuangdashu/refs/heads/main/NY%E5%BD%B1%E9%99%A2.js"
     },
-{"key":"234XBPQ1","name":"2️⃣234影视",
-"type":3,"api":"csp_XBPQ",
-"ext":{"简介":"济宁裁缝大叔提醒不要相信任何广告防止被骗！！:+简介：&&
-","首页":"12","数组":"class=\"stui-vodlist__thumb&&",
-"图片":"original=\"&&\"","标题":"title=\"&&\"",
-"副标题":"济宁裁缝大叔+text-right\">&&","链接":"href=\"&&\"","免嗅":"1","播放数组":"
-","播放列表":"",
-"分类url":"https://ikan234.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;rc",
-"分类":"电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"}},
+
 {"key":"4Kdy","name":"4K🎦DY",
 "type":3,"
 api":"csp_XBPQ",
-"ext":{\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e
+"ext":{"\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e
 "简介":"济宁裁缝大叔为您剧情介绍:+简介：sketch content\">&&",
 "分类url":"https://www.4kdy.vip/4K-show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html;;rc",
 "分类":"电影&剧集&动漫&记录","分类值":"1&2&3&5"}}, 
